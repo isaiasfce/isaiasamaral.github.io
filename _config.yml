@@ -50,7 +50,7 @@ main:
 
 # -------- CONFIGURAÇÕES DE BUILD --------
 # Geralmente não precisa mexer aqui
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default" # Você pode testar outros como "air", "dark", "contrast"
 
 # ... resto do arquivo (pode deixar como está por enquanto)
